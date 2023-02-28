@@ -1,2 +1,1 @@
-# prepcourshenry1
-este es un repositorio de prepcours del modulo 2 
+este proyecto es como crear un repositio y como clonarlo desde github a mi computador
